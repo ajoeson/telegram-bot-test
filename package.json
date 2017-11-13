@@ -1,0 +1,9 @@
+{
+  "name": "telegram-bot-test",
+  "version": "0.1.0",
+  "description": "Telegram Bot Test",
+  "main": "index.js",
+  "repository": "https://github.com/ajoeson/telegram-bot-test.git",
+  "author": "Joeson AU",
+  "license": "MIT"
+}
